@@ -1,4 +1,3 @@
-// This is a tester for branch control
 import java.awt.*;
 import java.awt.GraphicsEnvironment;
 import java.awt.event.ActionEvent;
