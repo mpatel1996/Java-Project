@@ -7,6 +7,9 @@
 //               Notepad includes custome JFontChooser.
 //               Has find/replace, go-to, status bar functions built in the Notepad.
 
+/* Future Changes: Add a clipboard that saves previously copied text. Does a Pop up menu for user
+                    to select which text to paste into the notepad. */ 
+
 
 import java.awt.*;
 import java.awt.event.*;
